@@ -1,17 +1,23 @@
-Mini Poject1
+Project Case on Advanced Data Analytics
 
-Project Descriptions
+Project Description:
 
-Language : Python 
+Perform Exploratory Data Analysis on product/brand comparison for E-Commerce.
 
-Programming approach : Object Oriented Programming 
+The project should include all the process of data analysis:
 
-Program Structure :
-The program structure should consist of concept of 
-•	Conditional Structure 
-•	Looping Statement
-•	Control Structure
-•	OOPs  
+• Data Collection using web scarping
 
-Project Descriptions 
-Create a project going through the process of collection of 5000 records of employees taken from HR department of an organization and apply principles of oops to create a program taking 5 different departments from an organization and validate if atleast 10 records of employee get matched with their required departments. 
+• Data Cleansing
+
+• Finding Missing data
+
+• Error analysis
+
+• Data Transformation
+
+• Data Wrangling
+
+• Data Visualization
+
+• Inferential Statistics 
