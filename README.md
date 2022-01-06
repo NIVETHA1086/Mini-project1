@@ -77,6 +77,7 @@ Inferential Statistics :
 It takes data from sample and make generalizations about a population. It hepls to analysis if the dataset is very large. Hypothesis testing and estimation works in this process.
 
 Conclusion:
+
 The above analysis has two brands of 'Lenovo' and'ASUS' . We have performed EDA process on it. The process involves Data Collecting -> Data Cleaning -> Data Manupilation -> Data Comparison -> Data Visulatization -> Data Presentation.
 
 After completion of all the step , we conclude that the two brand products are analyzed on different parameter like "Rating","Price","Discount".
